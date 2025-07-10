@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nanya
+- 👋 Hi, I’m Phie
 - 👀 I’m interested in advancing health through technology
 - 🌱 I’m currently learning data science and genetic codes
 - 😄 Pronouns: The chosen one
